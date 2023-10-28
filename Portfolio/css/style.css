@@ -1,0 +1,144 @@
+* {
+  
+    box-sizing: border-box;
+  }
+
+ body {
+    
+    background-image: linear-gradient(to right, #02111a, #f11712);
+   overflow: hidden;
+
+  
+  }
+
+
+  #logo{
+    height:35px;
+   }
+
+   #icon1{
+     width:700px;
+     height:500px;
+
+
+   }
+  
+
+   h1  {
+    font-weight: 900;
+    font-size:50px;
+    color:rgb(214, 230, 0);
+     
+     
+
+   }
+
+   p{
+    color:bisque;
+  
+    
+    
+   }
+
+
+button{
+  padding:5px;
+  color:#dbdbdb;
+  border-radius:10%;
+  margin:20px;
+  border:none;
+  background-color: #00295f;
+  text-decoration:none;
+  
+
+}
+
+button:hover{
+  background-color:rgb(124, 3, 88);
+  cursor:pointer;
+}
+
+
+
+
+
+
+h1 {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 55px;
+  font-weight: 600;
+  margin-bottom:10px;
+   margin-left:20px;
+}
+
+p{
+  margin:20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+section{
+float:left;
+width:50%;
+
+
+}
+
+footer{
+  text-align:center;
+  display:relative;
+}
+
+
+nav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+ z-index: 99;
+
+}
+
+.nav__content {
+
+  margin: auto;
+  padding: 1.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+ 
+ 
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  list-style: none;
+  transition: left 0.3s;
+
+
+} 
+
+ul li{
+  width:100%;
+  font-size: 20px;
+  text-decoration:none;
+  font-weight:bold;
+  
+ 
+}
+
+
+
+.clearfix{
+  overflow: auto;
+}
+
+
+
+
+
+
+ 
