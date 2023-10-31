@@ -1,2 +1,1 @@
-# CODSOFT
-My CodSoft internship projects
+#CODSOFTT                            CodSoft internship projects
